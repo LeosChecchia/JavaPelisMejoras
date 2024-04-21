@@ -90,7 +90,7 @@ body {
 }
 
 .menu .navbar ul li .btn-1:hover{
-    transitio: 1s;
+    transition: 1s;
     color: #ffffff;
     border-radius: 10px;    
 }
